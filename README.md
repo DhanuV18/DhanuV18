@@ -10,9 +10,6 @@ I build what I like!
 - This is my portfolio website (old), currently working on my new website.
   https://dhanushan.vercel.app/
   
-
-![JavaProgrammingGIF](https://github.com/user-attachments/assets/5dc0a39a-d2a5-4787-8e9c-134c616731b7)
-
 - Thanks for reading so far and have a great day!❤️ 
 <!--
 **DhanuV18/DhanuV18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
